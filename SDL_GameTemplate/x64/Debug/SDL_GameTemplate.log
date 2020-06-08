@@ -1,0 +1,10 @@
+﻿  TextureManager.cpp
+  Map.cpp
+c:\users\ionut\desktop\facultate\facultate\anul2\semestrul1\poo\jocuri poo\poo game\minesweeper project\sdl_gametemplate\map.cpp(93): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+  GameObject.cpp
+  Game.cpp
+  Generating Code...
+c:\users\ionut\desktop\facultate\facultate\anul2\semestrul1\poo\jocuri poo\poo game\minesweeper project\sdl_gametemplate\map.cpp(561): warning C4715: 'Map::PressMine': not all control paths return a value
+  SDL_GameTemplate.vcxproj -> C:\Users\Ionut\Desktop\FACULTATE\FACULTATE\Anul2\Semestrul1\POO\Jocuri POO\POO Game\Minesweeper Project\x64\Debug\SDL_GameTemplate.exe
+  SDL_GameTemplate.vcxproj -> C:\Users\Ionut\Desktop\FACULTATE\FACULTATE\Anul2\Semestrul1\POO\Jocuri POO\POO Game\Minesweeper Project\x64\Debug\SDL_GameTemplate.pdb (Partial PDB)

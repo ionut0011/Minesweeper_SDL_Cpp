@@ -1,0 +1,9 @@
+﻿  Map.cpp
+c:\users\ionut\desktop\poo game\minesweeper\sdl_gametemplate\map.cpp(75): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ionut\desktop\poo game\minesweeper\sdl_gametemplate\map.cpp(474): warning C4101: 'out': unreferenced local variable
+  Generating code
+  3 of 51 functions ( 5.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SDL_GameTemplate.vcxproj -> C:\Users\Ionut\Desktop\POO Game\Minesweeper\x64\Release\SDL_GameTemplate.exe
